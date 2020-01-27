@@ -4,7 +4,7 @@ BioSim project for the advanced course of python (INF200 - 2019) at
 Simulation output:
 
 <p align="center">
-  <img src = '/Exam/Simulation_movie_fast.mp4' align="centre" height
+  <img src = '/Exam/visualization.gif' align="centre" height
   ="65
   %" width="65%"></img>
 </p>
